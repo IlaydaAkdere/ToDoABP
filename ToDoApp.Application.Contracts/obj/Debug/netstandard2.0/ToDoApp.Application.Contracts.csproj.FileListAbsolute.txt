@@ -1,0 +1,13 @@
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\bin\Debug\netstandard2.0\ToDoApp.Application.Contracts.deps.json
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\bin\Debug\netstandard2.0\ToDoApp.Application.Contracts.dll
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\bin\Debug\netstandard2.0\ToDoApp.Application.Contracts.pdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\bin\Debug\netstandard2.0\ToDoApp.Domain.Shared.dll
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\bin\Debug\netstandard2.0\ToDoApp.Domain.Shared.pdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.AssemblyInfo.cs
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.csproj.CopyComplete
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.dll
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.Application.Contracts\obj\Debug\netstandard2.0\ToDoApp.Application.Contracts.pdb
