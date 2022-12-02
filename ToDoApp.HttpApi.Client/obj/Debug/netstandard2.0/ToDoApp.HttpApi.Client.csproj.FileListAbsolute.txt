@@ -1,0 +1,15 @@
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\bin\Debug\netstandard2.0\ToDoApp.HttpApi.Client.deps.json
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\bin\Debug\netstandard2.0\ToDoApp.HttpApi.Client.dll
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\bin\Debug\netstandard2.0\ToDoApp.HttpApi.Client.pdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\bin\Debug\netstandard2.0\ToDoApp.Application.Contracts.dll
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\bin\Debug\netstandard2.0\ToDoApp.Domain.Shared.dll
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\bin\Debug\netstandard2.0\ToDoApp.Application.Contracts.pdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\bin\Debug\netstandard2.0\ToDoApp.Domain.Shared.pdb
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.csproj.AssemblyReference.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.AssemblyInfoInputs.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.AssemblyInfo.cs
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.csproj.CopyComplete
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.dll
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\ToDoApp\src\ToDoApp.HttpApi.Client\obj\Debug\netstandard2.0\ToDoApp.HttpApi.Client.pdb
